@@ -1,0 +1,1 @@
+INSERT INTO question_type(description) values ('Personal Life');
